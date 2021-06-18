@@ -1,4 +1,4 @@
-# Chapter 7: Choose Team-First Boundaries
+# Chapter 7: Team Interaction Modes
 ____
 
 > Technologies and organizations should be redesigned to intermittently isolate people from each other's work for b est collective performance in solving complex problems.
